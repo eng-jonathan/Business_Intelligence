@@ -10,14 +10,16 @@ ___
 * Highlights
 
 <img src = "Images/cunyenergy_image01.png" width = "750"><img src = "Images/cunyenergy_image03.png" width = "750"><img src = "Images/cunyenergy_image04.png" width = "750">
-
+___
+### Certifications
+<img src = "Images/Power%20Query%20Essentials.pdf " width = "450">
 ___ 
 ### Course Overview:
 * Research and dissect the visualizations, DAX code, Calculated columns and tables from various professional PBIX files
 * Understanding the differences between traditional OLTP and columnar databases
 * Client-side loading external data sources to form a client-side data warehouse that (ETL) (extract transform and load using PowerQuery (M)) evolving the creation of various staging queries to shape data efficiently into a BISM (Business Modeling Sematic Model) data model.
 * Applying parallels from Relational database SQL skills to functional programming in DAX (Data Analysis Expressions) for PowerBI or PowerPivot.
-* Data Analysis eXpressions (DAX) to create calculated columns, measures and virtual tables using skills learned within the prerequisites
+* Data Analysis expressions (DAX) to create calculated columns, measures and virtual tables using skills learned within the prerequisites
 * Create Pivot tables, Charts and Key Point Indicators (KPI)
 * PowerBI Desktop and PowerPivot Excel 2019 or better to prototype BISM models
 * Use techniques to slice and dice the decision supportdata to provide the macro to micro perspectives for the business user
