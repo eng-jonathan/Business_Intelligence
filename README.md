@@ -1,4 +1,5 @@
 # Business Intelligence
+
 [CUNY Energy](https://github.com/eng-jonathan/Business_Intelligence/tree/main/CUNY%20Energy) |
 [Syllabus](https://github.com/eng-jonathan/Business_Intelligence/blob/main/syllabus/syllabus.pdf)
  
