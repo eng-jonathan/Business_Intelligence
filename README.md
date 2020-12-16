@@ -7,7 +7,7 @@ ___
 * [CUNY Energy Presentation](https://github.com/eng-jonathan/Business_Intelligence/blob/main/CUNY%20Energy/CUNY%20Energy%20Presentation.pdf) | [PBIX](https://github.com/eng-jonathan/Business_Intelligence/blob/main/CUNY%20Energy/CUNY%20Energy%20PBIX.pbix) 
 * Creates visualizations and interactive dashboards of all CUNY schools to show where energy costs are most concentrated. It’s developed in Microsoft Power BI and incorporates the use of DAX and M
 * Highlights
-<img src = "Images/cunyenergy_image01.png" width = "1000">
+<img src = "Images/cunyenergy_image01.png" width = "500">
 ![](Images/cunyenergy_image01.png)
 ![](Images/cunyenergy_image03.png)
 ![](Images/cunyenergy_image04.png)
