@@ -1,11 +1,10 @@
 ## Business Intelligence
 Shortcuts: 
-[Projects]() |
-[Syllabus]() |
+[CUNY Energy](https://github.com/eng-jonathan/Business_Intelligence/tree/main/CUNY%20Energy) |
+[Syllabus](https://github.com/eng-jonathan/Business_Intelligence/blob/main/syllabus/syllabus.pdf) |
  
 ___
-[CUNY Energy Cost Distribution]()
-* [CUNY Energy]() | [Syllabus]() 
+* [CUNY Energy Presentation](https://github.com/eng-jonathan/Business_Intelligence/blob/main/CUNY%20Energy/CUNY%20Energy%20Presentation.pdf) | [PBIX](https://github.com/eng-jonathan/Business_Intelligence/blob/main/CUNY%20Energy/CUNY%20Energy%20PBIX.pbix) 
 * Creates visualizations and interactive dashboards of all CUNY schools to show where energy costs are most concentrated. It’s developed in Microsoft Power BI and incorporates the use of DAX and M
 ___ 
 Course Overview:
