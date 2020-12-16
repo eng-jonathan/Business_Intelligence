@@ -10,7 +10,7 @@ ___
 * Creates visualizations and interactive dashboards of all CUNY schools to show where energy costs are most concentrated. It’s developed in *Microsoft Power BI* and incorporates the use of *DAX* and *M*
 * Highlights
 
-* <img src = "Images/cunyenergy_image01.png" width = "750"><img src = "Images/cunyenergy_image03.png" width = "750"><img src = "Images/cunyenergy_image04.png" width = "750">
+<img src = "Images/cunyenergy_image01.png" width = "750"><img src = "Images/cunyenergy_image03.png" width = "750"><img src = "Images/cunyenergy_image04.png" width = "750">
 ___ 
 ### [Certifications](https://github.com/eng-jonathan/Business_Intelligence/tree/main/certifications)
 * [Power Query Essentials](https://github.com/eng-jonathan/Business_Intelligence/blob/main/certifications/Power_Query_Essentials.pdf)
