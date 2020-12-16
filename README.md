@@ -8,6 +8,9 @@ ___
 * Creates visualizations and interactive dashboards of all CUNY schools to show where energy costs are most concentrated. It’s developed in Microsoft Power BI and incorporates the use of DAX and M
 * Highlights
 ![](Images/cunyenergy_image01.png)
+![](Images/cunyenergy_image02.png)
+![](Images/cunyenergy_image03.png)
+![](Images/cunyenergy_image04.png)
 ___ 
 Course Overview:
 * Research and dissect the visualizations, DAX code, Calculated columns and tables from various professional PBIX files
