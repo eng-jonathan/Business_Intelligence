@@ -1,4 +1,5 @@
-# Business Intelligence<a name="TOP"></a>
+<a name="TOP"></a>
+# Business Intelligence
 
 [CUNY Energy](#CUNY_ENERGY) |
 [Certifications](#Certifications) |
