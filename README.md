@@ -6,7 +6,7 @@ Shortcuts:
 ___
 [CUNY Energy Cost Distribution]()
 * [Prompt]() | [Report]() 
-* •	Creates visualizations and interactive dashboards of all CUNY schools to show where energy costs are most concentrated. It’s developed in Microsoft Power BI and incorporates the use of DAX and M
+* Creates visualizations and interactive dashboards of all CUNY schools to show where energy costs are most concentrated. It’s developed in Microsoft Power BI and incorporates the use of DAX and M
 ___ 
 Course Overview:
 * Research and dissect the visualizations, DAX code, Calculated columns and tables from various professionalPBIX files
