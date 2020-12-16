@@ -1,8 +1,8 @@
 # Business Intelligence<a name="TOP"></a>
 
-*[CUNY Energy](#CUNY_ENERGY) |
+[CUNY Energy](#CUNY_ENERGY) |
 [Certifications](#Certifications) |
-[Course Overview](#overview)*
+[Course Overview](#overview)
 ___
 ### [CUNY Energy](https://github.com/eng-jonathan/Business_Intelligence/tree/main/CUNY%20Energy)<a name="CUNY_ENERGY"></a>
 * [CUNY Energy Presentation](https://github.com/eng-jonathan/Business_Intelligence/blob/main/CUNY%20Energy/CUNY%20Energy%20Presentation.pdf) | [PBIX File](https://github.com/eng-jonathan/Business_Intelligence/blob/main/CUNY%20Energy/CUNY%20Energy%20PBIX.pbix) 
