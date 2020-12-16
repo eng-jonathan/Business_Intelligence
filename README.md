@@ -15,6 +15,7 @@ ___
 * [Power Query Essentials](https://github.com/eng-jonathan/Business_Intelligence/blob/main/certifications/Power_Query_Essentials.pdf)
 * [Ultimate Beginners Guide to Power BI](https://github.com/eng-jonathan/Business_Intelligence/blob/main/certifications/Ultimate_Beginners_Guide_to_Power_BI.pdf)
 * [Ultimate Beginners Guide to Power DAX](https://github.com/eng-jonathan/Business_Intelligence/blob/main/certifications/Ultimate_Beginners_Guide_to_DAX.pdf)
+___
 ### Course Overview:
 * Research and dissect the visualizations, DAX code, Calculated columns and tables from various professional PBIX files
 * Understanding the differences between traditional OLTP and columnar databases
