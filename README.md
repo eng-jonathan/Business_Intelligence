@@ -10,7 +10,9 @@ ___
 * Highlights
 
 <img src = "Images/cunyenergy_image01.png" width = "750"><img src = "Images/cunyenergy_image03.png" width = "750"><img src = "Images/cunyenergy_image04.png" width = "750">
-
+___
+### Certifications
+<img src = "Images/Power%20%Query%20%Essentials.pdf " width = "450">
 ___ 
 ### Course Overview:
 * Research and dissect the visualizations, DAX code, Calculated columns and tables from various professional PBIX files
