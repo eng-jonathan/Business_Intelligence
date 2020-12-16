@@ -33,7 +33,7 @@ ___
 * Data Analysis expressions (DAX) to create calculated columns, measures and virtual tables using skills learned within the prerequisites
 * Create Pivot tables, Charts and Key Point Indicators (KPI)
 * PowerBI Desktop and PowerPivot Excel 2019 or better to prototype BISM models
-* Use techniques to slice and dice the decision supportdata to provide the macro to micro perspectives for the business user
+* Use techniques to slice and dice the decision support data to provide the macro to micro perspectives for the business user
 * Building and implementing relational databases
 ___
 
