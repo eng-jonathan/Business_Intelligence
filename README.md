@@ -15,12 +15,18 @@ ___
 
 <img src = "Images/cunyenergy_image01.png" width = "750"><img src = "Images/cunyenergy_image03.png" width = "750"><img src = "Images/cunyenergy_image04.png" width = "750">
 ___ 
-### [Certifications](https://github.com/eng-jonathan/Business_Intelligence/tree/main/certifications)<a name="Certifications"></a>
+<a name="Certifications"></a>
+
+
+### [Certifications](https://github.com/eng-jonathan/Business_Intelligence/tree/main/certifications)
 * [Power Query Essentials](https://github.com/eng-jonathan/Business_Intelligence/blob/main/certifications/Power_Query_Essentials.pdf)
 * [Ultimate Beginners Guide to Power BI](https://github.com/eng-jonathan/Business_Intelligence/blob/main/certifications/Ultimate_Beginners_Guide_to_Power_BI.pdf)
 * [Ultimate Beginners Guide to Power DAX](https://github.com/eng-jonathan/Business_Intelligence/blob/main/certifications/Ultimate_Beginners_Guide_to_DAX.pdf)
 ___
-### Course Overview:<a name="overview"></a>
+<a name="overview"></a>
+
+
+### Course Overview:
 [Syllabus](https://github.com/eng-jonathan/Business_Intelligence/blob/main/syllabus/syllabus.pdf)
 * Research and dissect the visualizations, DAX code, Calculated columns and tables from various professional PBIX files
 * Understanding the differences between traditional OLTP and columnar databases
