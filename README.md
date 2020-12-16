@@ -1,9 +1,8 @@
 # Business Intelligence<a name="TOP"></a>
 
-[CUNY Energy](https://github.com/eng-jonathan/Business_Intelligence/tree/main/CUNY%20Energy) |
-[Certifications](https://github.com/eng-jonathan/Business_Intelligence/tree/main/certifications) |
-[Syllabus](https://github.com/eng-jonathan/Business_Intelligence/blob/main/syllabus/syllabus.pdf) |
-[CUNY ENERGY](#CUNY_ENERGY)
+[CUNY Energy](#CUNY_ENERGY) |
+[Certifications](#Certifications) |
+[Syllabus](https://github.com/eng-jonathan/Business_Intelligence/blob/main/syllabus/syllabus.pdf)
 ___
 ### [CUNY Energy](https://github.com/eng-jonathan/Business_Intelligence/tree/main/CUNY%20Energy)<a name="CUNY_ENERGY"></a>
 * [CUNY Energy Presentation](https://github.com/eng-jonathan/Business_Intelligence/blob/main/CUNY%20Energy/CUNY%20Energy%20Presentation.pdf) | [PBIX File](https://github.com/eng-jonathan/Business_Intelligence/blob/main/CUNY%20Energy/CUNY%20Energy%20PBIX.pbix) 
@@ -12,7 +11,7 @@ ___
 
 <img src = "Images/cunyenergy_image01.png" width = "750"><img src = "Images/cunyenergy_image03.png" width = "750"><img src = "Images/cunyenergy_image04.png" width = "750">
 ___ 
-### [Certifications](https://github.com/eng-jonathan/Business_Intelligence/tree/main/certifications)
+### [Certifications](https://github.com/eng-jonathan/Business_Intelligence/tree/main/certifications)<a name="Certifications"></a>
 * [Power Query Essentials](https://github.com/eng-jonathan/Business_Intelligence/blob/main/certifications/Power_Query_Essentials.pdf)
 * [Ultimate Beginners Guide to Power BI](https://github.com/eng-jonathan/Business_Intelligence/blob/main/certifications/Ultimate_Beginners_Guide_to_Power_BI.pdf)
 * [Ultimate Beginners Guide to Power DAX](https://github.com/eng-jonathan/Business_Intelligence/blob/main/certifications/Ultimate_Beginners_Guide_to_DAX.pdf)
