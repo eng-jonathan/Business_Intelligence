@@ -1,4 +1,5 @@
 <a name="TOP"></a>
+
 # Business Intelligence
 
 [CUNY Energy](#CUNY_ENERGY) |
@@ -6,7 +7,6 @@
 [Course Overview](#overview)
 ___
 <a name="CUNY_ENERGY"></a>
-
 
 ### [CUNY Energy](https://github.com/eng-jonathan/Business_Intelligence/tree/main/CUNY%20Energy)
 * [CUNY Energy Presentation](https://github.com/eng-jonathan/Business_Intelligence/blob/main/CUNY%20Energy/CUNY%20Energy%20Presentation.pdf) | [PBIX File](https://github.com/eng-jonathan/Business_Intelligence/blob/main/CUNY%20Energy/CUNY%20Energy%20PBIX.pbix) 
@@ -17,14 +17,12 @@ ___
 ___ 
 <a name="Certifications"></a>
 
-
 ### [Certifications](https://github.com/eng-jonathan/Business_Intelligence/tree/main/certifications)
 * [Power Query Essentials](https://github.com/eng-jonathan/Business_Intelligence/blob/main/certifications/Power_Query_Essentials.pdf)
 * [Ultimate Beginners Guide to Power BI](https://github.com/eng-jonathan/Business_Intelligence/blob/main/certifications/Ultimate_Beginners_Guide_to_Power_BI.pdf)
 * [Ultimate Beginners Guide to Power DAX](https://github.com/eng-jonathan/Business_Intelligence/blob/main/certifications/Ultimate_Beginners_Guide_to_DAX.pdf)
 ___
 <a name="overview"></a>
-
 
 ### Course Overview:
 [Syllabus](https://github.com/eng-jonathan/Business_Intelligence/blob/main/syllabus/syllabus.pdf)
