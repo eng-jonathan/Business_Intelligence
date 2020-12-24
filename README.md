@@ -18,7 +18,9 @@ ___
 <a name="Certifications"></a>
 
 ### [Certifications](https://github.com/eng-jonathan/Business_Intelligence/tree/main/certifications)
+* [Power Query Fundamentals](https://github.com/eng-jonathan/Business_Intelligence/blob/main/certifications/Power_Query_Fundamentals.pdf)
 * [Power Query Essentials](https://github.com/eng-jonathan/Business_Intelligence/blob/main/certifications/Power_Query_Essentials.pdf)
+* [Power Query Advanced](https://github.com/eng-jonathan/Business_Intelligence/blob/main/certifications/Power_Query_Advanced.pdf)
 * [Ultimate Beginners Guide to Power BI](https://github.com/eng-jonathan/Business_Intelligence/blob/main/certifications/Ultimate_Beginners_Guide_to_Power_BI.pdf)
 * [Ultimate Beginners Guide to Power DAX](https://github.com/eng-jonathan/Business_Intelligence/blob/main/certifications/Ultimate_Beginners_Guide_to_DAX.pdf)
 ___
