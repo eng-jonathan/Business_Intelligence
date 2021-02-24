@@ -39,5 +39,3 @@ ___
 * Use techniques to slice and dice the decision support data to provide the macro to micro perspectives for the business user
 * Building and implementing relational databases
 ___
-
-[Return to Top](#TOP)
