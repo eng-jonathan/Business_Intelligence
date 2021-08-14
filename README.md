@@ -2,7 +2,7 @@
 
 # Business Intelligence
 
-[nergy Cost Analysis](#CUNY_ENERGY) |
+[Energy Cost Analysis](#CUNY_ENERGY) |
 [Certifications](#Certifications) |
 [Course Overview](#overview)
 ___ 
