@@ -1,10 +1,6 @@
 <a name="TOP"></a>
 
 # Business Intelligence
-
-[Energy Cost Analysis](#CUNY_ENERGY) |
-[Certifications](#Certifications) |
-[Course Overview](#overview)
 ___ 
 <a name="CUNY_ENERGY"></a>
 
