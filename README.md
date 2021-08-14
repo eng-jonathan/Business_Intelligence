@@ -17,7 +17,7 @@ ___
 
 * Highlights:
 
-<img src = "Images/cunyenergy_image01.png" width = "750"><img src = "Images/cunyenergy_image03.png" width = "750"><img src = "Images/cunyenergy_image04.png" width = "750">
+<img src = "cuny%20energy/images/cunyenergy_image01.png" width = "750"><img src = "cuny%20energy/images/cunyenergy_image03.png" width = "750"><img src = "cuny%20energy/images/cunyenergy_image04.png" width = "750">
 ___
 <a name="overview"></a>
 
