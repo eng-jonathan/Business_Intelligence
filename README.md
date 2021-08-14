@@ -4,7 +4,7 @@
 ___ 
 <a name="CUNY_ENERGY"></a>
 
-### [Energy Cost Analysis](https://github.com/eng-jonathan/Business_Intelligence/tree/main/CUNY%20Energy)
+### [Energy Cost Analysis](https://github.com/eng-jonathan/Business_Intelligence/tree/main/cuny%20energy)
 * [Presentation](https://github.com/eng-jonathan/Business_Intelligence/blob/main/CUNY%20Energy/CUNY%20Energy%20Presentation.pdf) | [PBIX File](https://github.com/eng-jonathan/Business_Intelligence/blob/main/CUNY%20Energy/CUNY%20Energy%20PBIX.pbix) 
 * Designed ***Data Visualizations*** and ***Interactive Dashboards*** to evaluate energy distribution and costs
 * Developed in ***Microsoft Power BI*** and incorporates the use of ***DAX*** abd ***M***
