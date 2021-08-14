@@ -13,7 +13,7 @@ ___
 * Designed ***Data Visualizations*** and ***Interactive Dashboards*** to evaluate energy distribution and costs
 * Developed in ***Microsoft Power BI*** and incorporates the use of ***DAX*** abd ***M***
 * Intesting Findings:
-  * Manhattan has an **Average Facility Amount**, however has the **Greatest Energy Usage** and is the **Least Energy Efficient** in its Pay/Facility Count ratio
+  * Manhattan has an **Average Facility Amount**, however has the **Greatest Energy Usage** and is the **Least Energy Efficient** in its Pay/Facility-Count ratio
   * Brooklyn has the **Most Facility Amount**, however is the **Second-Least Energy Efficeint**
   * Bronx is the **Most Energy Efficient**
   * Queens is **Average** across the board in terms of Energy Used, Payments towards Energy, and Energy Efficiency
